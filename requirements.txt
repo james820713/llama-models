@@ -3,3 +3,4 @@ jinja2
 tiktoken
 pydantic>=2
 Pillow
+pip install torch fairscale fire blobfile
